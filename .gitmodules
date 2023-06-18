@@ -1,105 +1,140 @@
 [submodule "aaxep.com"]
 	path = aaxep.com
 	url = git@github.com:sarvex/aaxep.com
+  branch = main
 [submodule "apeyro.com"]
 	path = apeyro.com
 	url = git@github.com:sarvex/apeyro.com
+  branch = main
 [submodule "araugya.com"]
 	path = araugya.com
 	url = git@github.com:sarvex/araugya.com
+  branch = main
 [submodule "aushadhy.com"]
 	path = aushadhy.com
 	url = git@github.com:sarvex/aushadhy.com
+  branch = main
 [submodule "bhanjak.com"]
 	path = bhanjak.com
 	url = git@github.com:sarvex/bhanjak.com
+  branch = main
 [submodule "chotyk.com"]
 	path = chotyk.com
 	url = git@github.com:sarvex/chotyk.com
+  branch = main
 [submodule "chytr.com"]
 	path = chytr.com
 	url = git@github.com:sarvex/chytr.com
+  branch = main
 [submodule "cppfront.org"]
 	path = cppfront.org
 	url = git@github.com:sarvex/cppfront.org
+  branch = main
 [submodule "e3cart.com"]
 	path = e3cart.com
 	url = git@github.com:sarvex/e3cart.com
+  branch = main
 [submodule "gem.gen.in"]
 	path = gem.gen.in
 	url = git@github.com:sarvex/gem.gen.in
+  branch = main
 [submodule "harmaxa.com"]
 	path = harmaxa.com
 	url = git@github.com:sarvex/harmaxa.com
+  branch = main
 [submodule "ixipro.com"]
 	path = ixipro.com
 	url = git@github.com:sarvex/ixipro.com
+  branch = main
 [submodule "jatasra.com"]
 	path = jatasra.com
 	url = git@github.com:sarvex/jatasra.com
+  branch = main
 [submodule "labdhy.com"]
 	path = labdhy.com
 	url = git@github.com:sarvex/labdhy.com
+  branch = main
 [submodule "nabhilax.com"]
 	path = nabhilax.com
 	url = git@github.com:sarvex/nabhilax.com
+  branch = main
 [submodule "nirupit.com"]
 	path = nirupit.com
 	url = git@github.com:sarvex/nirupit.com
+  branch = main
 [submodule "nyrupt.com"]
 	path = nyrupt.com
 	url = git@github.com:sarvex/nyrupt.com
+  branch = main
 [submodule "poorty.com"]
 	path = poorty.com
 	url = git@github.com:sarvex/poorty.com
+  branch = main
 [submodule "prajyakalp.com"]
 	path = prajyakalp.com
 	url = git@github.com:sarvex/prajyakalp.com
+  branch = main
 [submodule "prarcan.com"]
 	path = prarcan.com
 	url = git@github.com:sarvex/prarcan.com
+  branch = main
 [submodule "punnan.com"]
 	path = punnan.com
 	url = git@github.com:sarvex/punnan.com
+  branch = main
 [submodule "qusyd.com"]
 	path = qusyd.com
 	url = git@github.com:sarvex/qusyd.com
+  branch = main
 [submodule "shrisiva.com"]
 	path = shrisiva.com
 	url = git@github.com:sarvex/shrisiva.com
+  branch = main
 [submodule "upkrn.com"]
 	path = upkrn.com
 	url = git@github.com:sarvex/upkrn.com
+  branch = main
 [submodule "vibhuty.com"]
 	path = vibhuty.com
 	url = git@github.com:sarvex/vibhuty.com
+  branch = main
 [submodule "vypan.com"]
 	path = vypan.com
 	url = git@github.com:sarvex/vypan.com
+  branch = main
 [submodule "vysad.com"]
 	path = vysad.com
 	url = git@github.com:sarvex/vysad.com
+  branch = main
 [submodule "xauny.com"]
 	path = xauny.com
 	url = git@github.com:sarvex/xauny.com
+  branch = main
 [submodule "yookta.com"]
 	path = yookta.com
 	url = git@github.com:sarvex/yookta.com
+  branch = main
 [submodule "cppfronts.com"]
 	path = cppfronts.com
 	url = git@github.com:sarvex/cppfronts.com
+  branch = main
 [submodule "sarvex.jatasra.com"]
 	path = sarvex.jatasra.com
 	url = git@github.com:sarvex/sarvex.jatasra.com
+  branch = main
 [submodule "poonam.jatasra.com"]
 	path = poonam.jatasra.com
 	url = git@github.com:sarvex/poonam.jatasra.com
+  branch = main
 [submodule "nabhilax.jatasra.com"]
 	path = nabhilax.jatasra.com
 	url = git@github.com:sarvex/nabhilax.jatasra.com
+  branch = main
 [submodule "harmaxa.jatasra.com"]
 	path = harmaxa.jatasra.com
 	url = git@github.com:sarvex/harmaxa.jatasra.com
+  branch = main
 [submodule "gizlang.com"]
 	path = gizlang.com
 	url = git@github.com:sarvex/gizlang.com
+  branch = main
