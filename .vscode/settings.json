@@ -13,5 +13,8 @@
   "sonarlint.connectedMode.project": {
     "connectionId": "sarvex",
     "projectKey": "sarvex_com-meta"
-  }
+  },
+  "cSpell.words": [
+    "unpic"
+  ]
 }

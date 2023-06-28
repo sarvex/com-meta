@@ -2,139 +2,174 @@
 	path = aaxep.com
 	url = git@github.com:sarvex/aaxep.com
   branch = main
+  update = merge
 [submodule "apeyro.com"]
 	path = apeyro.com
 	url = git@github.com:sarvex/apeyro.com
   branch = main
+  update = merge
 [submodule "araugya.com"]
 	path = araugya.com
 	url = git@github.com:sarvex/araugya.com
   branch = main
+  update = merge
 [submodule "aushadhy.com"]
 	path = aushadhy.com
 	url = git@github.com:sarvex/aushadhy.com
   branch = main
+  update = merge
 [submodule "bhanjak.com"]
 	path = bhanjak.com
 	url = git@github.com:sarvex/bhanjak.com
   branch = main
+  update = merge
 [submodule "chotyk.com"]
 	path = chotyk.com
 	url = git@github.com:sarvex/chotyk.com
   branch = main
+  update = merge
 [submodule "chytr.com"]
 	path = chytr.com
 	url = git@github.com:sarvex/chytr.com
   branch = main
+  update = merge
 [submodule "cppfront.org"]
 	path = cppfront.org
 	url = git@github.com:sarvex/cppfront.org
   branch = main
+  update = merge
 [submodule "e3cart.com"]
 	path = e3cart.com
 	url = git@github.com:sarvex/e3cart.com
   branch = main
+  update = merge
 [submodule "gem.gen.in"]
 	path = gem.gen.in
 	url = git@github.com:sarvex/gem.gen.in
   branch = main
+  update = merge
 [submodule "harmaxa.com"]
 	path = harmaxa.com
 	url = git@github.com:sarvex/harmaxa.com
   branch = main
+  update = merge
 [submodule "ixipro.com"]
 	path = ixipro.com
 	url = git@github.com:sarvex/ixipro.com
   branch = main
+  update = merge
 [submodule "jatasra.com"]
 	path = jatasra.com
 	url = git@github.com:sarvex/jatasra.com
   branch = main
+  update = merge
 [submodule "labdhy.com"]
 	path = labdhy.com
 	url = git@github.com:sarvex/labdhy.com
   branch = main
+  update = merge
 [submodule "nabhilax.com"]
 	path = nabhilax.com
 	url = git@github.com:sarvex/nabhilax.com
   branch = main
+  update = merge
 [submodule "nirupit.com"]
 	path = nirupit.com
 	url = git@github.com:sarvex/nirupit.com
   branch = main
+  update = merge
 [submodule "nyrupt.com"]
 	path = nyrupt.com
 	url = git@github.com:sarvex/nyrupt.com
   branch = main
+  update = merge
 [submodule "poorty.com"]
 	path = poorty.com
 	url = git@github.com:sarvex/poorty.com
   branch = main
+  update = merge
 [submodule "prajyakalp.com"]
 	path = prajyakalp.com
 	url = git@github.com:sarvex/prajyakalp.com
   branch = main
+  update = merge
 [submodule "prarcan.com"]
 	path = prarcan.com
 	url = git@github.com:sarvex/prarcan.com
   branch = main
+  update = merge
 [submodule "punnan.com"]
 	path = punnan.com
 	url = git@github.com:sarvex/punnan.com
   branch = main
+  update = merge
 [submodule "qusyd.com"]
 	path = qusyd.com
 	url = git@github.com:sarvex/qusyd.com
   branch = main
+  update = merge
 [submodule "shrisiva.com"]
 	path = shrisiva.com
 	url = git@github.com:sarvex/shrisiva.com
   branch = main
+  update = merge
 [submodule "upkrn.com"]
 	path = upkrn.com
 	url = git@github.com:sarvex/upkrn.com
   branch = main
+  update = merge
 [submodule "vibhuty.com"]
 	path = vibhuty.com
 	url = git@github.com:sarvex/vibhuty.com
   branch = main
+  update = merge
 [submodule "vypan.com"]
 	path = vypan.com
 	url = git@github.com:sarvex/vypan.com
   branch = main
+  update = merge
 [submodule "vysad.com"]
 	path = vysad.com
 	url = git@github.com:sarvex/vysad.com
   branch = main
+  update = merge
 [submodule "xauny.com"]
 	path = xauny.com
 	url = git@github.com:sarvex/xauny.com
   branch = main
+  update = merge
 [submodule "yookta.com"]
 	path = yookta.com
 	url = git@github.com:sarvex/yookta.com
   branch = main
+  update = merge
 [submodule "cppfronts.com"]
 	path = cppfronts.com
 	url = git@github.com:sarvex/cppfronts.com
   branch = main
+  update = merge
 [submodule "sarvex.jatasra.com"]
 	path = sarvex.jatasra.com
 	url = git@github.com:sarvex/sarvex.jatasra.com
   branch = main
+  update = merge
 [submodule "poonam.jatasra.com"]
 	path = poonam.jatasra.com
 	url = git@github.com:sarvex/poonam.jatasra.com
   branch = main
+  update = merge
 [submodule "nabhilax.jatasra.com"]
 	path = nabhilax.jatasra.com
 	url = git@github.com:sarvex/nabhilax.jatasra.com
   branch = main
+  update = merge
 [submodule "harmaxa.jatasra.com"]
 	path = harmaxa.jatasra.com
 	url = git@github.com:sarvex/harmaxa.jatasra.com
   branch = main
+  update = merge
 [submodule "gizlang.com"]
 	path = gizlang.com
 	url = git@github.com:sarvex/gizlang.com
   branch = main
+  update = merge
